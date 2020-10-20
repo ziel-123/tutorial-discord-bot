@@ -1,10 +1,10 @@
 {
-    "token": "",
+    "token": "2qStrMg81oJBHFWDxrmtUDd-owU94-K6",
     "debug": true,
-    "prefix": "!",
+    "prefix": "Z!",
 
     "avisosChannelId": "676243402848862278",
-    "boasVindasChannelId": "680104835319595013",
+    "boasVindasChannelId": "757939681907310682",
 
     "permissions":{
         "!aviso":[
